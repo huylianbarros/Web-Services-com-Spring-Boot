@@ -8,6 +8,7 @@ public class WebServicesComSpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebServicesComSpringBootApplication.class, args);
+		
 	}
 
 }
